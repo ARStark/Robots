@@ -1,6 +1,6 @@
 # Bluetooth Controlled Robot Ver. 1.0
 
-This is the first implementation of the Bluetooth Controlled Robot
+This is the first implementation of the Bluetooth Controlled Robot.
 
 The robot is run by a PIC32MX250F128B, a TB6612 motor driver breakout board, a Bluefruit LE UART module, 2 DC motors and a 4 AA battery pack.
 
