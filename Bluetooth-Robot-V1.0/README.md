@@ -13,6 +13,7 @@ The robot can be controlled from any terminal application that can connect to Bl
 
 
 | Character | Movement |
+| --- | --- |
 | 'u' | forward |
 | 'd' | backward |
 | 'l' | left |
