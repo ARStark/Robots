@@ -20,3 +20,5 @@ The robot can be controlled from any terminal application that can connect to Bl
 | 'r' | right |
 | 's' | stop|
 
+## Robot Schematic 
+![schematic](ARStark.github.com/Robots/Bluetooth-Robot-V1.0/bluetooth_robot_2WD_schematic_final.jpg)
