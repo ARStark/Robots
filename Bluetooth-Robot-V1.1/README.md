@@ -26,4 +26,5 @@ where *%s* is a single character that determines the direction the robot moves a
 | 'r' | right |
 | 's' | stop|
 
-
+## Schematic 
+![schematic](https://github.com/ARStark/Robots/blob/master/Bluetooth-Robot-V1.1/bluetooth_robot_2WD_schematic_V1_1_final.jpg)
