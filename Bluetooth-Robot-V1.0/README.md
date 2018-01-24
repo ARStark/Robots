@@ -9,7 +9,9 @@ The Pic is running a threading library known as Protothreads. To find out more a
 The robot can be controlled from any terminal application that can connect to Bluetooth Low Energy devices. By sending single characters from your terminal application you can control the direction in which the robot moves.
 
 
-| Robot Commands |
+# Robot Commands
+
+
 | Character | Movement |
 | 'u' | forward |
 | 'd' | backward |
