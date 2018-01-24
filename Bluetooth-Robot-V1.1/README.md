@@ -4,7 +4,7 @@
 
 This implementation of the Bluetooth Controlled Robot will be the base version of any robot created in the future, unless stated otherwise.
 
-The robot is run by a PIC32MX250F128B, a TB6612 motor driver breakout board, a Bluefruit LE UART module, 2 DC motors and a 4 AA battery pack.
+The robot is built with a PIC32MX250F128B, a TB6612 motor driver breakout board, a Bluefruit LE UART module, 2 DC motors and a 4 AA battery pack.
 
 The Pic is running a threading library known as Protothreads. To find out more about Protothreads click [here](http://people.ece.cornell.edu/land/courses/ece4760/PIC32/index_Protothreads.html).
 
