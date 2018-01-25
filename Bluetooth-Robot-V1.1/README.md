@@ -14,7 +14,7 @@ To control this version of the robot, commands must be sent in the following for
 
 command: *%s %f*
 
-where *%s* is a single character that determines the direction the robot moves and *%f* is a number that determines the duty cycle. The number can be an integer or a floating point number and must range between 1 and 4. If a number is entered above the minimum and maximum threshold values, that value will be changed to 1 and 4 respectively; thhis will be done before the new duty cycle is implemented. The duty cycle only runs within the range of 20% - 80% to prevent the robot from either stopping altogher or moving too fast. Because the robot is controlled with a terminal application, and because a human can only enter in commands so fast, the duty cycle needed to be capped at 80% to prevent the robot from moving so fast forward or backward that it runs into an object. 
+where *%s* is a single character that determines the direction the robot moves and *%f* is a number that determines the duty cycle. The number can be an integer or a floating point number and must range between 1 and 4. If a number is entered above the minimum and maximum threshold values, that value will be changed to 1 and 4 respectively; this will be done before the new duty cycle is implemented. The duty cycle only runs within the range of 20% - 80% to prevent the robot from either stopping altogher or moving too fast. Because the robot is controlled with a terminal application, and because a human can only enter in commands so fast, the duty cycle needed to be capped at 80% to prevent the robot from moving so fast forward or backward that it runs into an object. 
 
 ## Robot Commands
 
