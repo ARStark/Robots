@@ -40,7 +40,7 @@ static char cmd[16]; // for commands from terminal program
 
 /* motor speed variables */
 
-static int generate_period = 1000; //frequency of generating period of wave in Hz
+static int generate_period = 250; //frequency of generating period of wave in Hz
 static float value=0, pulse_width=0; //starts at 0 to ensure robot is not moving
 static float duty_cycle;
 
